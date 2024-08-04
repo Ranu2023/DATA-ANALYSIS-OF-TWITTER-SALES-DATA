@@ -5,7 +5,7 @@ Installation
 Describe how to install and set up the project, including dependencies and environment setup instructions.
 
 Copy code
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/ranu2023/.git
 cd your-repo
 
 Tasks
