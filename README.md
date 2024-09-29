@@ -5,7 +5,7 @@ Installation
 Describe how to install and set up the project, including dependencies and environment setup instructions.
 
 Copy code
-git clone https://github.com/ranu2023/BRAINWAVE_MATRIX_INTENSHIP_DATA.git
+git clone [https://github.com/ranu2023/BRAINWAVE_MATRIX_INTENSHIP_DATA.git](https://github.com/Ranu2023/DATA-ANALYSIS-OF-TWITTER-SALES-DATA)
 
 cd your-repo
 
